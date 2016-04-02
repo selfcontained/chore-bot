@@ -25,7 +25,10 @@
   "dependencies": {
     "beepboop-botkit": "^1.1.1",
     "botkit": "~0.0.14",
-    "node-uuid": "^1.4.7"
+    "crampon": "^0.2.2",
+    "log-leveler": "^2.0.0",
+    "node-uuid": "^1.4.7",
+    "winston": "^2.2.0"
   },
   "devDependencies": {
     "chai": "^3.4.1",
