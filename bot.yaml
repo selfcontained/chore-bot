@@ -1,5 +1,7 @@
 name: chorebot
-description: Chore Bot
+description: Bot for the Harris Family
+avatar: avatar.png
+background: images/background.jpg
 config:
   - name: NODE_ENV
     default: production
@@ -10,3 +12,6 @@ config:
   - name: CHORES_MEMBERS
     friendly_name: Chore Members
     info: Comma seperated list of members doing chores
+screenshots:
+  - screenshot: images/screenshot-1.png
+  - screenshot: images/screenshot-2.png
