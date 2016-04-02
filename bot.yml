@@ -3,7 +3,8 @@ description: Dishes out chores like a champ
 avatar: images/avatar.jpg
 background: images/background.jpg
 screenshots:
-  - screenshot: images/screenshot.png
+  - screenshot: images/screenshot.jpg
+  - screenshot: images/screenshot-2.jpg
 config:
   - name: NODE_ENV
     default: production
