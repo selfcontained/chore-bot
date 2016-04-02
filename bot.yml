@@ -1,5 +1,9 @@
 name: chorebot
 description: Chore Bot
+avatar: images/avatar.png
+background: images/background.jpg
+screenshots:
+  - screenshot: images/screenshot.png
 config:
   - name: NODE_ENV
     default: production
