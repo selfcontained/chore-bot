@@ -1,6 +1,9 @@
 name: chorebot
 description: Chore Bot
 config:
+  - name: NODE_ENV
+    default: production
+    global: true
   - name: CHORES
     friendly_name: Chores
     info: Comma seperated list of chores
