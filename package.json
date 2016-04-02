@@ -1,0 +1,34 @@
+{
+  "name": "chore-bot",
+  "version": "1.0.0",
+  "description": "Slack Chore Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha ./chores/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/selfcontained/chore-bot.git"
+  },
+  "keywords": [
+    "slack",
+    "slackbot",
+    "chore",
+    "bot"
+  ],
+  "author": "Brad Harris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/selfcontained/chore-bot/issues"
+  },
+  "dependencies": {
+    "beepboop-botkit": "^1.1.1",
+    "botkit": "~0.0.14",
+    "node-uuid": "^1.4.7"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "CHORES_NO_DATA": "Sorry, I don't seem to have any chore data setup for you. :cry:",
+  "CHORES_NO_ASSIGNED": "No one has any chores, what a bunch of bums! :cry:",
+  "CHORES_CLEARED": "You got it.  Everyone is ready for a new chore. :hugging_face:",
+  "CHORES_RESET": "All the chores are up for grab now.  It's anyone's game! :wink:",
+  "CHORES_AVAILABLE": "Here's all the available chores...",
+  "CHORES_NONE_AVAILABLE": "There's no available chores.  Don't worry though, I'll find something for everyone to do. :smile:",
+  "CHORES_WHO": "Who is this?",
+  "CHORES_NOT_A_MEMBER": "Are you sure you typed that right?  I'm not sure I know anyone by that name.",
+  "CHORES_NOT_A_MEMBER_MAX": "Sorry, I'm just not understanding you right now. :cold_sweat:",
+  "CHORES_HAS_CHORE": "Sorry *{.member}*, you're already in charge of *{.chore}*.",
+  "CHORES_SUGGESTION": "How about *{.chore}*?",
+  "CHORES_SUGGESTION_NO": "Ok *{.member}*.  Ask me for another chore and maybe it'll be something you would rather do.",
+  "CHORES_SUGGESTION_WUT": "Not sure what you mean there.  You can just tell me *yes* if you want to do the chore or *no* if you don't. :confused:",
+  "CHORES_ASSIGN_ERROR": "Dang, sorry *{.member}*.  Turns out I can't assign you *{.chore}*.  Ask me for another and we'll find one that works. :smile:",
+  "CHORES_ASSIGNED": "Alright *{.member}*, you're in charge of *{.chore}*. :punch:",
+  "CHORES_REPORT_COMPLETE": "When you're done, come back and let me know by telling me *done with chore*.",
+  "CHORES_NO_CHORE": "It doesn't look like you have a chore *{.member}*. :cry:",
+  "CHORES_COMPLETE": [
+    "Nice job *{.member}*, you nailed it! :hammer:",
+    "Wow, that was like, really really fast.  Nice work! :punch:",
+    "Good job!",
+    "Phew, your done. :cold_sweat:",
+    "That took forever.  At least it's over! :stuck_out_tongue_winking_eye:"
+  ]
+}
