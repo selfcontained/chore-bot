@@ -1,4 +1,4 @@
 # chore-bot
 Slack Chore Bot
 
-WIP
+A Slack bot for dishing out chores to your kids
