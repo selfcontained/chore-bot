@@ -9,6 +9,7 @@ var log = Logger(config.logging)
 log.debug('Config: ', config)
 
 var controller = Botkit.slackbot({
+  retry: true,
   debug: config.debugBotkit,
   logger: Logger.botkitLogger(log)
 })
