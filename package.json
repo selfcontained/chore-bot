@@ -23,8 +23,8 @@
     "url": "https://github.com/selfcontained/chore-bot/issues"
   },
   "dependencies": {
-    "beepboop-botkit": "^1.1.2",
-    "botkit": "~0.0.15",
+    "beepboop-botkit": "^1.4.1",
+    "botkit": "~0.2.1",
     "crampon": "^0.2.2",
     "log-leveler": "^2.0.0",
     "node-uuid": "^1.4.7",
